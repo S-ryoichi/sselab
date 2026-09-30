@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://S-ryoichi.github.io/sselab/sitemap.xml

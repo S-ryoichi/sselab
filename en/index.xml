@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Secure System Engineering Lab. on Secure System Engineering Laboratory</title><link>https://S-ryoichi.github.io/sselab/en/</link><description>Recent content in Secure System Engineering Lab. on Secure System Engineering Laboratory</description><generator>Hugo</generator><language>en</language><atom:link href="https://S-ryoichi.github.io/sselab/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Access</title><link>https://S-ryoichi.github.io/sselab/en/access/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://S-ryoichi.github.io/sselab/en/access/</guid><description>&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;div class="address"&gt;
+Sato Lab.&lt;br&gt;
+Room 2F, Building C4&lt;br&gt;
+Okayama University of Science&lt;br&gt;
+1-1 Ridai-cho, Kita-ku, Okayama 700-0005, Japan
+&lt;/div&gt;
+&lt;h2 id="google-map"&gt;Google Map&lt;/h2&gt;
+&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d689.6027735835555!2d133.92772497067747!3d34.69705668099436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355405e10891f465%3A0xd496c3e4f2f5b3cd!2z44CSNzAwLTAwMDUg5bKh5bGx55yM5bKh5bGx5biC5YyX5Yy655CG5aSn55S677ySIEM05Y-36aSo!5e0!3m2!1sja!2sjp!4v1787040078648!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"&gt;&lt;/iframe&gt;
+&lt;br&gt;
+&lt;div class="notice"&gt;How to access Okayama University of Science: please check &lt;a href="https://www.ous.ac.jp/access/" target="_blank" rel="noopener"&gt;here&lt;/a&gt;.&lt;/div&gt;
+&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Name: Ryoichi Sato&lt;/p&gt;
+&lt;p&gt;Email: r-sato[at]ous.ac.jp&lt;/p&gt;</description></item><item><title>Members</title><link>https://S-ryoichi.github.io/sselab/en/members/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://S-ryoichi.github.io/sselab/en/members/</guid><description>&lt;div class="notice"&gt;Our laboratory is actively recruiting motivated students!
+Let&amp;rsquo;s work together to make our lab a thriving community!&lt;/div&gt;</description></item><item><title>Publications</title><link>https://S-ryoichi.github.io/sselab/en/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://S-ryoichi.github.io/sselab/en/publications/</guid><description/></item><item><title>Research</title><link>https://S-ryoichi.github.io/sselab/en/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://S-ryoichi.github.io/sselab/en/research/</guid><description>&lt;p&gt;Our laboratory focuses on &amp;ldquo;hardware security&amp;rdquo; research, especially generating cryptographically secure true random numbers from physical fluctuations in electronic circuits.
+Otherwise, we engage in real-world IoT device development and evaluation through collaborative projects with industry partners.
+By addressing both theoretical foundations and practical implementation, we aim to advance security technologies that can be deployed in society.&lt;/p&gt;
+&lt;h2 id="hardware-oriented-security-and-trust"&gt;Hardware-Oriented Security and Trust&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Research on generating secure &amp;ldquo;true random numbers&amp;rdquo; from physical phenomena&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
